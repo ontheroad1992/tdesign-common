@@ -39,3 +39,7 @@ spline: navigation
 {{ small }}
 
 {{ large }}
+
+### 自定义锚点高亮
+
+{{ customizehighlight }}
